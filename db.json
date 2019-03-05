@@ -1,14 +1,13 @@
 {
-  "videos": [
-    { "id": 1, "name": "Post 1" },
-    { "id": 2, "name": "Post 2" },
-    { "id": 3, "name": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  feed: [
+    "videos": [
+      { "id": 1, "name": "Post 1" },
+      { "id": 2, "name": "Post 2" },
+      { "id": 3, "name": "Post 3" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ]
+  ]
 }
