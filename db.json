@@ -1,36 +1,36 @@
 {
-  "videos": [
+  "events": [
     {
       "id": 1,
-      "name": "In a Forest Dark and Deep"
+      "title": "In a Forest Dark and Deep"
     },
     {
       "id": 2,
-      "name": "Leonce si Lena..."
+      "title": "Leonce si Lena..."
     },
     {
       "id": 3,
-      "name": "Eine Kleine Nachtmusik"
+      "title": "Eine Kleine Nachtmusik"
     },
     {
       "id": 4,
-      "name": "Frumoasa calatorie a ursilor panda povestita de un saxofonist care avea o iubita la Frankfurt"
+      "title": "Frumoasa calatorie a ursilor panda povestita de un saxofonist care avea o iubita la Frankfurt"
     },
     {
       "id": 5,
-      "name": "Varstele lunii"
+      "title": "Varstele lunii"
     },
     {
       "id": 6,
-      "name": "O noapte umoroasă"
+      "title": "O noapte umoroasă"
     },
     {
       "id": 7,
-      "name": "Treapta a 9-a"
+      "title": "Treapta a 9-a"
     },
     {
       "id": 8,
-      "name": "The Sunset Limited"
+      "title": "The Sunset Limited"
     }
   ],
   "comments": [
@@ -46,6 +46,6 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "title": "typicode"
   }
 }
