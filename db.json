@@ -5,10 +5,7 @@
       "date": "24 Feb",
       "time": "19.00",
       "title": "In a Forest Dark and Deep",
-      "ticket_types": {
-        "Bilet Regular": 100,
-        "Bilt VIP": 20
-      }
+      "ticket_types": "Bilet.."
     },
     {
       "id": 2,
