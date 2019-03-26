@@ -20,14 +20,14 @@
       "ticket_types": [
         {
           "id": 1,
-          "titlu": "Bilet Regular",
+          "title": "Bilet Regular",
           "count_total": 100,
           "count_sold": 50,
           "count_checked": 12
         },
         {
           "id": 2,
-          "titlu": "Bilet VIP",
+          "title": "Bilet VIP",
           "count_total": 20,
           "count_sold": 20,
           "count_checked": 3
