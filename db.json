@@ -134,7 +134,16 @@
       "id": 5,
       "date": "28 Feb",
       "time": "19.30",
-      "title": "Varstele lunii"
+      "title": "Varstele lunii",
+      "ticket_types": [
+        {
+          "id": 1,
+          "title": "Bilet",
+          "count_total": 200,
+          "count_sold": 22,
+          "count_checked": 0
+        }
+      ]
     },
     {
       "id": 6,
