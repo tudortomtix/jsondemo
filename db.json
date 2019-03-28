@@ -84,7 +84,51 @@
       "id": 4,
       "date": "27 Feb",
       "time": "20.00",
-      "title": "Frumoasa calatorie a ursilor panda povestita de un saxofonist care avea o iubita la Frankfurt"
+      "title": "Frumoasa calatorie a ursilor panda povestita de un saxofonist care avea o iubita la Frankfurt",
+      "ticket_types": [
+        {
+          "id": 1,
+          "title": "Bilet vineri",
+          "count_total": 450,
+          "count_sold": 138,
+          "count_checked": 11
+        },
+        {
+          "id": 2,
+          "title": "Bilet sambata",
+          "count_total": 300,
+          "count_sold": 240,
+          "count_checked": 0
+        },
+        {
+          "id": 3,
+          "title": "Bilet duminica",
+          "count_total": 150,
+          "count_sold": 84,
+          "count_checked": 2
+        },
+        {
+          "id": 3,
+          "title": "Abonament",
+          "count_total": 800,
+          "count_sold": 457,
+          "count_checked": 107
+        },
+        {
+          "id": 3,
+          "title": "Abonament Early Bird",
+          "count_total": 400,
+          "count_sold": 257,
+          "count_checked": 81
+        },
+        {
+          "id": 3,
+          "title": "Abonament Presale",
+          "count_total": 200,
+          "count_sold": 200,
+          "count_checked": 0
+        }
+      ]
     },
     {
       "id": 5,
