@@ -4,7 +4,23 @@
       "id": 1,
       "date": "24 Feb",
       "time": "19.00",
-      "title": "In a Forest Dark and Deep"
+      "title": "In a Forest Dark and Deep",
+      "ticket_types": [
+        {
+          "id": 1,
+          "title": "Bilet normal",
+          "count_total": 200,
+          "count_sold": 44,
+          "count_checked": 110
+        },
+        {
+          "id": 2,
+          "title": "Bilet redus",
+          "count_total": 23,
+          "count_sold": 6,
+          "count_checked": 0
+        }
+      ]
     },
     {
       "id": 2,
@@ -32,7 +48,37 @@
       "id": 3,
       "date": "26 Feb",
       "time": "19.00",
-      "title": "Eine Kleine Nachtmusik"
+      "title": "Eine Kleine Nachtmusik",
+      "ticket_types": [
+        {
+          "id": 1,
+          "title": "Bilet vineri",
+          "count_total": 450,
+          "count_sold": 138,
+          "count_checked": 11
+        },
+        {
+          "id": 2,
+          "title": "Bilet sambata",
+          "count_total": 300,
+          "count_sold": 240,
+          "count_checked": 0
+        },
+        {
+          "id": 3,
+          "title": "Bilet duminica",
+          "count_total": 150,
+          "count_sold": 84,
+          "count_checked": 2
+        },
+        {
+          "id": 3,
+          "title": "Abonament",
+          "count_total": 800,
+          "count_sold": 457,
+          "count_checked": 107
+        }
+      ]
     },
     {
       "id": 4,
