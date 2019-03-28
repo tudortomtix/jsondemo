@@ -72,7 +72,7 @@
           "count_checked": 2
         },
         {
-          "id": 3,
+          "id": 4,
           "title": "Abonament",
           "count_total": 800,
           "count_sold": 457,
@@ -108,22 +108,22 @@
           "count_checked": 2
         },
         {
-          "id": 3,
+          "id": 4,
           "title": "Abonament",
           "count_total": 800,
           "count_sold": 457,
           "count_checked": 107
         },
         {
-          "id": 3,
+          "id": 5,
           "title": "Abonament Early Bird",
           "count_total": 400,
           "count_sold": 257,
           "count_checked": 81
         },
         {
-          "id": 3,
-          "title": "Abonament Presale",
+          "id": 6,
+          "title": "Abonament Pre-sale",
           "count_total": 200,
           "count_sold": 200,
           "count_checked": 0
