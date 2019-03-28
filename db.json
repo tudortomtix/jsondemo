@@ -41,6 +41,13 @@
           "count_total": 20,
           "count_sold": 20,
           "count_checked": 3
+        },
+        {
+          "id": 2,
+          "title": "Bilet new",
+          "count_total": 80,
+          "count_sold": 28,
+          "count_checked": 24
         }
       ]
     },
