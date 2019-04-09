@@ -10,8 +10,8 @@
           "id": 1,
           "title": "Bilet normal",
           "count_total": 200,
-          "count_sold": 105,
-          "count_checked": 30
+          "count_sold": 100,
+          "count_checked": 28
         },
         {
           "id": 2,
